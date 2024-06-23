@@ -11,6 +11,7 @@
 		DA7737492C28CA2B00E3CB74 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7737482C28CA2B00E3CB74 /* ContentView.swift */; };
 		DA77374B2C28CA2C00E3CB74 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA77374A2C28CA2C00E3CB74 /* Assets.xcassets */; };
 		DA77374E2C28CA2C00E3CB74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA77374D2C28CA2C00E3CB74 /* Preview Assets.xcassets */; };
+		DA7737552C28CA5100E3CB74 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA7737542C28CA5100E3CB74 /* ToDo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		DA7737482C28CA2B00E3CB74 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		DA77374A2C28CA2C00E3CB74 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA77374D2C28CA2C00E3CB74 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		DA7737542C28CA5100E3CB74 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				DA7737462C28CA2B00E3CB74 /* ToDoWithSwiftDataApp.swift */,
 				DA7737482C28CA2B00E3CB74 /* ContentView.swift */,
+				DA7737542C28CA5100E3CB74 /* ToDo.swift */,
 				DA77374A2C28CA2C00E3CB74 /* Assets.xcassets */,
 				DA77374C2C28CA2C00E3CB74 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA7737552C28CA5100E3CB74 /* ToDo.swift in Sources */,
 				DA7737492C28CA2B00E3CB74 /* ContentView.swift in Sources */,
 				DA7737472C28CA2B00E3CB74 /* ToDoWithSwiftDataApp.swift in Sources */,
 			);
